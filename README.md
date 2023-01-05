@@ -1,4 +1,4 @@
-This work shows how to implement multiplication and division in P4.Both multiplication and division implementation contain 2 methods for verifying, respectively by `run.sh` script and by automatic verification defined in P4 data plane.
+This work shows how to implement multiplication and division in P4.Both multiplication and division implementation contain 2 methods for verifying, respectively by `run.sh` script and by automatic verification defined in P4 data plane. The SDE version used is **9.2.0**.
 
 
 
